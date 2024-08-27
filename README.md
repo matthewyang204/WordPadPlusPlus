@@ -1,1 +1,2 @@
-# Wordpad++
+# WordPad++
+Since Microsoft is getting rid of WordPad in Windows 11, I am rebuilding WordPad from scratch. Note that this is a project still in development, and is not likely to be done soon. As such, it will not be ready for production use either.
